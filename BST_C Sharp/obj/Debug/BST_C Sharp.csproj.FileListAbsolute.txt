@@ -1,0 +1,19 @@
+c:\users\haris sheikh\documents\visual studio 2013\Projects\BST_C Sharp\BST_C Sharp\bin\Debug\BST_C Sharp.exe.config
+c:\users\haris sheikh\documents\visual studio 2013\Projects\BST_C Sharp\BST_C Sharp\bin\Debug\BST_C Sharp.exe
+c:\users\haris sheikh\documents\visual studio 2013\Projects\BST_C Sharp\BST_C Sharp\bin\Debug\BST_C Sharp.pdb
+c:\users\haris sheikh\documents\visual studio 2013\Projects\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.csprojResolveAssemblyReference.cache
+c:\users\haris sheikh\documents\visual studio 2013\Projects\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.exe
+c:\users\haris sheikh\documents\visual studio 2013\Projects\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.pdb
+C:\Users\Haris Sheikh\Desktop\BST_C Sharp\BST_C Sharp\bin\Debug\BST_C Sharp.exe.config
+C:\Users\Haris Sheikh\Desktop\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.exe
+C:\Users\Haris Sheikh\Desktop\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.pdb
+C:\Users\Haris Sheikh\Desktop\BST_C Sharp\BST_C Sharp\bin\Debug\BST_C Sharp.exe
+C:\Users\Haris Sheikh\Desktop\BST_C Sharp\BST_C Sharp\bin\Debug\BST_C Sharp.pdb
+C:\Users\Haris Sheikh\Desktop\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.csprojResolveAssemblyReference.cache
+C:\Users\djole\Desktop\BST_C Sharp\BST_C Sharp\bin\Debug\BST_C Sharp.exe.config
+C:\Users\djole\Desktop\BST_C Sharp\BST_C Sharp\bin\Debug\BST_C Sharp.exe
+C:\Users\djole\Desktop\BST_C Sharp\BST_C Sharp\bin\Debug\BST_C Sharp.pdb
+C:\Users\djole\Desktop\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.csprojAssemblyReference.cache
+C:\Users\djole\Desktop\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\djole\Desktop\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.exe
+C:\Users\djole\Desktop\BST_C Sharp\BST_C Sharp\obj\Debug\BST_C Sharp.pdb
